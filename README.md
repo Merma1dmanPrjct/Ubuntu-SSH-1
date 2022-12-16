@@ -19,7 +19,7 @@ Here are some useful notes to using this tool brewed with black magic xD !
 
 4. After few mins the script will spam *SSH* in Terminal , Enjoy !
 
-# circlecicli
+# circleci
 1. go to circle webpage
 
 2. signup with ur github account
